@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## 欢迎来到 惠普最靓的崽 的博客！
 
 You can use the [editor on GitHub](https://github.com/76793786/76793786.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
